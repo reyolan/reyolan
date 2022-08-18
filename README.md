@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
 <h3 align="center">An aspiring full stack web developer</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 📫 How to reach me **reynardolan@gmail.com**
 
