@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
+- 🚀 I'm very interested in learning Elixir soon.
+
 - 📫 How to reach me **reynardolan@gmail.com**
 
 - ⚡ Fun fact **My blood type is coffee.**
