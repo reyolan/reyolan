@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🚀 I'm currently reading 99 Bottles of OOP by Kathrina Owen and Sandi Metz.
+- 🚀 I'm currently reading 99 Bottles of OOP by Katrina Owen and Sandi Metz.
 
 - 📫 How to reach me **reynardolan@gmail.com**
 
